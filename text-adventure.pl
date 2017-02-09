@@ -32,7 +32,7 @@ state(gas_station_store, [
                               storm out of the gas_station_store.',null),
                       action('take_soda',gas_station_store,
                              '"THAT THIRST! OH MY GOD, SODA!", you shout, you immediately take a soda and drink it,
-                              glup, glup, glup. "This is how a man should live!" ',soda),
+                              gulp, gulp, gulp. "This is how a man should live!" ',soda),
                       action('take_newspaper',gas_station_store,
                            'You take and check the newspaper. There is some text in it, but something is completely off. 
                             You notice there are gaps in the flow of text in the articles. Some people's names are missing,
